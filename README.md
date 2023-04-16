@@ -180,8 +180,9 @@ Genes with adjusted *P* < 0.05 were taken as significant throughout.
 
 ## Contact
 
-Jian Cui — computational analysis
-Department of Immunology, University of Pittsburgh
+**Jian Cui** — Senior Bioinformatics Scientist  
+Vignali Lab, Department of Immunology  
+School of Medicine, University of Pittsburgh
 
 ## License
 
