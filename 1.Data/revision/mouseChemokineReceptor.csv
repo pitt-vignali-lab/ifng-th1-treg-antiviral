@@ -1,0 +1,45 @@
+Systematic Name,Mouse Gene,Mouse Receptor(s)
+C Family,Xcl1,XCR1
+CX3C Family,Cx3cl1,CX3CR1
+CC Family,Ccl1,CCR8
+CC Family,Ccl2,"CCR2, CCR4, D6, DARC"
+CC Family,Ccl3,"CCR1, CCR4, CCR5, D6"
+CC Family,Ccl4,"CCR1, CCR5"
+CC Family,Ccl5,"CCR1, CCR3, CCR4, CCR5"
+CC Family,Ccl6 ,CCR1
+CC Family,Ccl7,"CCR1, CCR2, CCR3"
+CC Family,Ccl8,CCR8
+CC Family,Ccl9,"CCR1, CCR3"
+CC Family,Ccl11,"CCR3, DARC"
+CC Family,Ccl12,CCR2
+CC Family,Ccl9,"CCR1, CCR3"
+CC Family,Ccl17,CCR4
+CC Family,Ccl19,"CCR7, CCR11, CCRL2/LCCR"
+CC Family,Ccl20,CCR6
+CC Family,Ccl21a,"CCR7, CCR11"
+CC Family,Ccl21b,CCR7
+CC Family,Ccl21c,CCR7
+CC Family,Ccl22,CCR4
+CC Family,Ccl6,CCR1
+CC Family,Ccl24,CCR3
+CC Family,Ccl25,"CCR9, CCR11"
+CC Family,Ccl26,
+CC Family,Ccl27a,CCR10
+CC Family,Ccl27b,
+CC Family,Ccl28,CCR10
+CXC Family,Cxcl3,"CXCR2, DARC"
+CXC Family,Cxcl2,"CXCR2, DARC"
+CXC Family,Cxcl15,CXCR2
+CXC Family,Pf4,CXCR3
+CXC Family,Cxcl5,"CXCR1, CXCR2, DARC"
+CXC Family,Ppbp,"CXCR1, CXCR2"
+CXC Family,Cxcl9,CXCR3
+CXC Family,Cxcl10,CXCR3
+CXC Family,Cxcl11,"CXCR3, CXCR7"
+CXC Family,Cxcl12,"CXCR4, CXCR7"
+CXC Family,Cxcl13,CXCR5
+CXC Family,Cxcl14,
+CXC Family,Cxcl15,
+CXC Family,Cxcl16,CXCR6
+CXC Family,Cxcl17,
+CXC Family,Cxcl5 ,"CXCR1, CXCR2, DARC"

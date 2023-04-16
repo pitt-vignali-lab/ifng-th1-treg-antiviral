@@ -1,0 +1,53 @@
+Human,Other names,Chromosome,Function,Cluster,Mouse,Other names2,Chromosome2,Function2,Cluster2,Receptor
+CXC family,CXC family,CXC family,CXC family,CXC family,CXC family,CXC family,CXC family,CXC family,CXC family,CXC family
+CXCL1,Gro??,4q13.3,I,GRO,Cxcl1*,Gro/KC,5qE2,I,GRO,"CXCR2, CXCR1"
+CXCL2,Gro??,4q13.3,I,GRO,Cxcl2*,MIP-2,5qE2,I,GRO,CXCR2
+CXCL3,Gro??,4q13.3,I,GRO,Gm1960*,Dcip1,5qE2,I,GRO,CXCR2
+CXCL4,PF4,4q13.3,U,GRO,Cxcl4*,PF4,5qE2,U,GRO,CXCR3B
+CXCL4V1,,4q13.3,U,GRO,,,,,,
+CXCL5,ENA-78,4q13.3,I,GRO,Cxcl5*,LIX,5qE2,I,GRO,CXCR2
+CXCL6,GCP-2,4q13.3,I,GRO,,,,,,"CXCR1, CXCR2"
+CXCL7,NAP-2,4q13.3,I,GRO,Cxcl7,Ppbp,5qE2,I,GRO,Unknown
+CXCL8,IL-8,4q13.3,I,GRO,Unknown,,,,,"CXCR1, CXCR2"
+CXCL9,MIG,4q21.1,I,IP10,Cxcl9,MIG,5qE3,I,IP10,"CXCR3, CXCR3B"
+CXCL10,IP-10,4q21.1,I,IP10,Cxcl10,IP-10,5qE3,I,IP10,"CXCR3, CXCR3B"
+CXCL11,I-TAC,4q21.1,I,IP10,Cxcl11,I-TAC,5qE3,I,IP10,"CXCR3, CXCR3B, CXCR7"
+CXCL12,SDF-1??/??,10q11.21,H,,Cxcl12,SDF-1??/??,6qF1,H,,"CXCR4, CXCR7"
+CXCL13,"BLC, BCA-1",4q21.1,H,IP10,Cxcl13,"BLC, BCA-1",5qE3,H,IP10,CXCR5
+CXCL14,"BRAK, Bolekine",5q31.1,I,,Cxcl14,BRAK,13qB2,I,,Unknown
+Unknown,,,,,Cxcl15,"Lungkine, Weche",5qE2,U,,Unknown
+CXCL16,,17p13.2,I,,Cxcl16,Cxcl16,11qB4,I,,CXCR6
+CXCL17,DMC,19q13.2,U,,Cxcl17,DMC,7qA3,U,,Unknown
+CC family,CC family,CC family,CC family,CC family,CC family,CC family,CC family,CC family,CC family,CC family
+CCL1,I-309,17q11.2,I,MCP,Ccl1,TCA-3,11qB5,I,MCP,CCR8
+CCL2,MCP-1,17q11.2,I,MCP,Ccl2,JE,11qB5,I,MCP,CCR2
+CCL3,"MIP-1??, LD78??",17q11.2,I,MIP,Ccl3*,MIP-1??,11qB5,I,MIP,"CCR1, CCR5"
+CCL3L1,LD78??,17q12,I,MIP,,,,,,
+CCL3L3,LD78??,17q12,I,MIP,,,,,,
+CCL4,MIP-1??,17q12,I,MIP,Ccl4*,MIP-1??,11qB5,I,MIP,CCR5
+CCL4L1,AT744.2,17q12,I,MIP,,,,,,
+CCL4L2,,17q12,I,MIP,,,,,,
+CCL5,RANTES,17q12,I,,Ccl5,RANTES,11qB5,I,,"CCR1, CCR3, CCR5"
+CCL7,MCP-3,17q11.2,I,MCP,Ccl7,MARC,11qB5,,MCP,"CCR1, CCR2, CCR3"
+CCL8,MCP-2,17q11.2,I,MCP,"Ccl8*, Ccl12*","MCP-2, MCP-5",11qB5,I,MCP,"CCR1, CCR2, CCR3, CCR5"
+CCL11,Eotaxin,17q11.2,I,MCP,Ccl11,Eotaxin,11qB5,I,MCP,CCR3
+CCL13,MCP-4,17q11.2,I,MCP,Unknown,,,,MCP,"CCR1, CCR2, CCR3"
+CCL14,HCC-1,17q12,H,MIP,Unknown,,,,,CCR1
+CCL15,HCC-2,17q12,H,MIP,Ccl9,"MMRP2, CCF18, MIP-1??",11qB5,H,MIP,"CCR1, CCR3"
+CCL16,HCC-4 LEC,17q12,H,MIP,Pseudogene,,11qB5,,MIP,"CCR1, CCR2, CCR5, HRH4"
+CCL17,TARC,16q13,D,MIP,Ccl17,TARC,8qC5,D,,CCR4
+CCL18,PARC,17q12,H,,Pseudogene,,,,,Unknown
+CCL19,"MIP3??, ELC",9p13.3,H,,Ccl19,MIP3??,4qB1,H,,CCR7
+CCL20,"MIP3??, LARC",2q36.3,D,,Ccl20,"MIP3??, LARC",1qC5,D,,CCR6
+CCL21,SLC,9p13.3,D,,"Ccl21a, Ccl21b, Ccl21c*",SLC,4qB1,D,,CCR7
+CCL22,MDC,16q13,D,,Ccl22,ABCD-1,8qC5,D,,CCR4
+CCL23,MPIF-1,17q12,I,MIP,Ccl6,C10,11qB5,I,MIP,"CCR1, FPRL-1"
+CCL24,Eotaxin 2,7q11.23,I,,Ccl24,Eotaxin 2,5qG1,I,,CCR3
+CCL25,TECK,19p13.2,H,,Ccl25,TECK,8qA1.2,H,,CCR9
+CCL26,Eotaxin 3,7q11.23,I,,Ccl26l,Eotaxin 3-like,5qG1,I,,CCR3
+CCL27,"CTACK, ILC",9p13.3,H,,"Ccl27a, b*","CTACK, ILC",4qB1,H,,CCR10
+CCL28,MEC,5p12,U,,Ccl28,MEC,13,U,,"CCR10, CCR3"
+Other classes,Other classes,Other classes,Other classes,Other classes,Other classes,Other classes,Other classes,Other classes,Other classes,Other classes
+XCL1,"Lymphotactin, SCM-1??",1q24.2,D,,Xcl1*,Lymphotactin,1qH2,D,,XCR1
+XCL2,SCM-1??,1q24.2,D,,,,,,,
+CX3CL1,Fractalkine,16q13,I,,Cx3cl1,Fractalkine,8qC5,I,,CX3CR1
